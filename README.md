@@ -1,2 +1,2 @@
 # Fitness-Club
-Frontend Website using React.
+Frontend Gym Website using React.
